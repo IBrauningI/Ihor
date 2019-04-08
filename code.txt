@@ -8,3 +8,5 @@ class ExampleClass
     Console.ReadKey();
   }
 }
+
+@Changed by Vlad Pavlyk
